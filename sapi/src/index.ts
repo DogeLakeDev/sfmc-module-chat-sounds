@@ -1,7 +1,6 @@
 /**
  * @sfmc-bds/module-chat-sounds — 聊天关键字全服音效
  *
- * 经 chat.onMessage 观察者插槽接入；禁止裸听原生 chatSend。
  */
 
 import { GameMode, system, world, type Player } from "@minecraft/server";
