@@ -5,7 +5,7 @@
   "type": "module",
   "description": "SAPI module: 聊天关键字全服音效",
   "license": "ISC",
-  "repository": "git+https://github.com/Tanya7z/sfmc-module-chat-sounds.git",
+  "repository": "git+https://github.com/DogeLake/sfmc-module-chat-sounds.git",
   "main": "sapi/src/index.ts",
   "exports": {
     ".": "./sapi/src/index.ts"
@@ -29,8 +29,8 @@
     "@minecraft/server-net": "1.0.0-beta.11940b24",
     "@minecraft/server-ui": "2.3.0-beta.1.26.51-stable",
     "@minecraft/vanilla-data": "1.26.51",
-    "@sfmc-bds/eslint-plugin": "^0.1.1-beta.3",
-    "@sfmc-bds/sdk": "^0.2.0-beta.10",
+    "@sfmc-bds/eslint-plugin": "^0.1.1",
+    "@sfmc-bds/sdk": "^0.2.0",
     "@types/node": "^22.13.0",
     "@typescript-eslint/eslint-plugin": "^8.64.0",
     "@typescript-eslint/parser": "^8.64.0",
